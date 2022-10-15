@@ -4,8 +4,6 @@ CrowdCoin is Decentralized Application built on Ethereum Test Network(Rinkeby ne
 * It is platform to get funding for new ideas by creating campaigns.<br>
 * A manager creates a campaign specifying minimum contribution. He can also create requests to use the contributed money.<br>
 * Public can contribute and become approvers. A simple majority is required for a request to be approved.<br>
-Visit [crowdCoin](https://crowdsourcecoin.netlify.app/) to view entire application.
-Note: Requires Metamask to be installed to create campaigns
 
 Home Page
 ![image](https://user-images.githubusercontent.com/97080149/170812214-6d72d885-427c-4ed7-afb1-8f5ebf0a0efe.png)
