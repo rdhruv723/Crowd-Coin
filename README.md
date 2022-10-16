@@ -20,6 +20,7 @@ Number of Requests, Number of Approvers, Balance.<br>
 ![image](https://user-images.githubusercontent.com/97080149/170813020-65b8789e-4b6e-4b6a-810e-06306c83a508.png)
 
 Create Request
+
 <img width="735" alt="Screenshot 2022-10-16 at 6 31 49 PM" src="https://user-images.githubusercontent.com/96113268/196036882-9dd3794f-f7d6-4e36-af10-89bb64471c24.png">
 
 * Only Manager can add new request.
